@@ -1,6 +1,6 @@
 # Internship_Programs
 
-## I'm listed all the useful program and all the resources or links that you need to do for a good intership like🥰😎👨‍💻👩‍💻
+## I'm listed all the useful program and all the resources or links that you need to do for a good intership or jobs like🥰😎👨‍💻👩‍💻
 ### Google,Amazon,Intel,Oracle,IBM,Cognizant,Wipro,Infosys,Goldman Sachs,TCS
 ### Also some Scholarships Programs
 
