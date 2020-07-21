@@ -4,7 +4,7 @@
 ### Google,Amazon,Intel,Oracle,IBM,Cognizant,Wipro,Infosys,Goldman Sachs,TCS
 ### Also some Scholarships Programs
 
--[GirlScript Summer of Code](https://www.gssoc.tech/)<br>
+-[GirlScript Summer of Code](https://www.gssoc.tech/) InternShip program in open source project's🥰👩‍💻👨‍💻 by Google<br>
 -[Googel Summer of Code](https://summerofcode.withgoogle.com/)<br>
 -[Microsoft Student Partner](https://studentambassadors.microsoft.com/en-us)<br>
 -[HackerEarth Campus Ambassador Program](https://www.hackerearth.com/university/)<br>
@@ -14,4 +14,7 @@
 -[Google Developer Training](https://developers.google.com/training) Courses provides by Professionals to earn Skills<br>
 -[Google Developer Club](https://developers.google.com/community/dsc)<br>
 -[Googel Credit Training Program for Students](https://edu.google.com/programs/students/benefits/?modal_active=none) you should also apply in this<br>
+-[Google Developer Student Club Lead](https://developers.google.com/community/dsc/leads)<br>
+-[Alexa Student Influencers](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)<br>
 ### i will update or add new links daily or Weekly
+-[For more details about Ambassador Program's you can Visit here](https://www.campusplusplus.com/unity-student-ambassador-program/)
